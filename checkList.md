@@ -2,7 +2,7 @@
 
 ## 📅 1. Gün – Değişkenler, Veri Tipleri ve Operatörler
 
-- [ ]  **Değişkenler ve Veri Tipleri** (`int`, `float`, `str`, `bool`, `list`, `tuple`, `dict`, `set`)
+- [ ]  **Değişkenler ve Veri Tipleri** (`int`, `float`, `str`, `bool`, `dict`)
 - [ ]  **Operatörler:** Aritmetik, Karşılaştırma, Mantıksal
 - [ ]  **Tip Dönüşümleri**
 
